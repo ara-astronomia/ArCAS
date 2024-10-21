@@ -1,3 +1,5 @@
+# ArCAS - Ara Colletion Astronomy Software
+ArCAS is a collection of astronomy utilities written in python
 # Pixel extractor 
 Is a simple code written in python to extract the coordinates of pixels exceeding a certain threshold that can be set as input.
 
