@@ -16,3 +16,23 @@ The input procedure is gui
 * matplotlib
 
 sudo apt install nome_package
+
+
+# CrAC-Alt 
+Graphic viewer at shows the observability of objects. Based on Astroplan and Astropy
+
+![image](https://github.com/user-attachments/assets/ef8e14ba-7e36-48f0-856f-7200f73a8d6a)
+# Pre-requisite
+pip install PySimpleGUI
+
+pip install numpy
+
+pip install matplotlib
+
+pip install astroplan
+
+pip install astropy
+
+# Sun Visibility
+script for calculating the sun duration given a certain amount of timeframes
+
